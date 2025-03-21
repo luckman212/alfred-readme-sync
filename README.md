@@ -1,6 +1,6 @@
 # alfred-readme-sync
 
-A helper script to push, pull or compare README.md to Alfred workflow.
+A helper script to push, pull or compare a `README.md` from the local git repo to what is configured in an Alfred workflow.
 
 See https://www.alfredforum.com/topic/22945-readme-syncer for discussion.
 
