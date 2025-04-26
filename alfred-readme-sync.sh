@@ -10,7 +10,7 @@ _usage() {
 	    -c,--compare   compare README.md <-> Alfred's config version
 	    --copy         copy Alfred's readme to pasteboard
 	    --push         copy README.md in → Alfred's readme
-	    --pull         copy Alfred's readme out → README.md"
+	    --pull         copy Alfred's readme out → README.md
 	EOF
 	exit
 }
